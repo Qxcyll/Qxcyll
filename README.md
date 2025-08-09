@@ -3,7 +3,9 @@
 
   - 👨‍💻 Possuo conhecimento na linguagem **Python**;
   - 🌱 Atualmente estudando Javascript com foco em Full Stack;
-   
+  - 🤓 Cursando Análise e Desenvolvimento de Sistemas | UNIASSELVI RJ
+  - ✉️ gabrielpaschoal53@gmail.com
+
 <p align="center">
 
   Linguagens que utilizo -
