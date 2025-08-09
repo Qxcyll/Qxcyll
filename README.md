@@ -1,15 +1,35 @@
-## Olá👋
-- 👨‍💻 Possuo conhecimento na linguagem **Python**;
-- 🌱 Atualmente estudando Javascript com foco em Full Stack;
+<div>
+	<a href="https://JVLsx.github.io">
+		<img height="100" src="https://github.com/Qxcyll.png" alt="My avatar">
+		<h1>Gabriel M.</h1>
+	</a>
+</div>
+	
+  - 👨‍💻 Possuo conhecimento na linguagem **Python**;
+  - 🌱 Atualmente estudando Javascript com foco em Full Stack;
+   
+<p align="center">
+
+  Linguagens que utilizo -
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,css" />
+  </a>
+</p>
 
 *"A prática leva à perfeição!"*
 
+<!--
+Olá👋
+- 👨‍💻 Possuo conhecimento na linguagem **Python**;
+- 🌱 Atualmente estudando Javascript com foco em Full Stack;
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,css" />
+*"A prática leva à perfeição!"*
 <div style="display: inline_block"><br>
   <img align="center" alt="Be-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Be-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  
-<!--
-# 👋 Olá, eu sou Bruno Erick
+# 👋 Olá, eu sou ...
 
 Desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecnologia, automação e desenvolvimento web. Tenho experiência prática em projetos que unem eficiência operacional e inovação, especialmente nos contextos administrativo e educacional.
 
@@ -17,8 +37,7 @@ Desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecnolog
 - 🚀 Busco integrar equipes de tecnologia para contribuir com entregas de impacto e seguir evoluindo como Full Stack Developer;
 - 🌱 Atualmente estudando React com foco em Full Stack com NodeJS;
 - 🤝 Aberto a colaborar com outros devs e participar de projetos desafiadores;
-- 🎮 Me interesso também por jogos competitivos como **CS, Valorant e LoL**;
-- 📫 Entre em contato: br.ericktk@gmail.com | [LinkedIn](https://www.linkedin.com/in/brunoerick-desenvolvedor-back-end/)
+- 📫 Entre em contato: br.@gmail.com | [LinkedIn](https://www.linkedin.com/in/brunoerick-desenvolvedor-back-end/)
 
 <div style="display: inline_block;">
   <a href="https://github.com/bericktk">
@@ -51,4 +70,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
